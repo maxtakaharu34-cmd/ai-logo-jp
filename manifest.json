@@ -1,0 +1,18 @@
+{
+  "name": "AIロゴメーカー",
+  "short_name": "ロゴ",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0a0a1f",
+  "theme_color": "#0a0a1f",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
